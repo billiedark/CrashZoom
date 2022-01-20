@@ -1,4 +1,5 @@
-# zoom
+[![N|Solid](https://github.com/billiedark/CrashZoom/blob/master/CrashZoom.png?raw=true)](https://github.com/billiedark/CrashZoom)
+
 Все, описанное ниже, я осуждаю, не поддерживаю и не советую. Учеба - важная штука.
 Ложить будем айпишник сервера конфы через открытый юдп порт, по которому зум передает информацию на наш пк
 Приступим
